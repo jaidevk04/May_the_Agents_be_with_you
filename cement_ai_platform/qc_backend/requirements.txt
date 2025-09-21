@@ -1,0 +1,12 @@
+fastapi==0.114.2
+uvicorn==0.30.6
+pydantic==2.8.2
+pydantic-settings==2.4.0
+sqlmodel==0.0.21
+orjson==3.10.7
+numpy==2.1.1
+pandas==2.2.2
+apscheduler==3.10.4
+google-generativeai==0.7.2
+python-dotenv==1.0.1
+scikit-learn==1.5.1 # Added for KPI models
