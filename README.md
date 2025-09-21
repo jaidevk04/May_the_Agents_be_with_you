@@ -1,6 +1,6 @@
 # CementAI Operations Hub - Autonomous Cement Plant Control
 
-This project is a proof-of-concept for a Generative AI-driven platform for autonomous cement plant operations, designed to optimize energy use, quality, and sustainability. It was developed for the "Optimizing Cement Operations with Generative AI" hackathon.
+This project is a proof-of-concept for a Generative AI-driven platform for autonomous cement plant operations, designed to optimize energy use, quality, and sustainability. It was developed for the "Hack2skill Google Generative AI Hackathon".
 
 The platform features a multi-agent backend system and a sleek, real-time frontend dashboard, simulating the monitoring and control of three critical stages of the cement manufacturing process.
 
